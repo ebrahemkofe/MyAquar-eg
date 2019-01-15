@@ -23,17 +23,6 @@ public class project_omarat extends Fragment {
 
         int[] Images = new int[]{
 
-                R.drawable.comp7,
-
-                R.drawable.comp9,
-                R.drawable.comp10,
-                R.drawable.comp11,
-                R.drawable.comp12,
-                R.drawable.comp13,
-                R.drawable.comp3,
-                R.drawable.comp4,
-                R.drawable.comp5,
-                R.drawable.comp6
         };
         ViewPager viewPager=v.findViewById(R.id.ViewPager_omarat);
         ImageAdapter adapter= new ImageAdapter(getContext(),Images);

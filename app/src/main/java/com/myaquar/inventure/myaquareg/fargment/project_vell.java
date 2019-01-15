@@ -26,17 +26,6 @@ public class project_vell extends Fragment {
 
         int[] Images = new int[]{
 
-                R.drawable.comp7,
-
-                R.drawable.comp9,
-                R.drawable.comp10,
-                R.drawable.comp11,
-                R.drawable.comp12,
-                R.drawable.comp13,
-                R.drawable.comp3,
-                R.drawable.comp4,
-                R.drawable.comp5,
-                R.drawable.comp6
         };
         String [] des = new String[] {"aaaaaaaa","aaaaaa","5","4","3","2","1","8","7","6"};
 

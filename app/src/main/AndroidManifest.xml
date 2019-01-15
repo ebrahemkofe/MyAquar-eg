@@ -14,14 +14,15 @@
 
         >
 
-        <activity android:name=".MainActivity">
+        <activity android:name=".activity.show_detales_for_one_project">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.show_detales_for_one_project"></activity>
+        <activity android:name=".Register"></activity>
+
     </application>
 
 </manifest>
