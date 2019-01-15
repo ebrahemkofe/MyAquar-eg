@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.show_detales_for_one_project"
+    android:orientation="vertical"
+    android:background="@drawable/backhome"
+    >
+
+    <HorizontalScrollView
+        android:paddingTop="10dp"
+        android:id="@+id/horizontal_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF1C1C1D">
+
+        <LinearLayout
+            android:id="@+id/linear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/sacnee_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#FF558BD1"
+                android:text="سكني "
+
+                />
+
+            <TextView
+                android:layout_width="5dp"
+                android:layout_height="50dp" />
+
+            <Button
+                android:id="@+id/tbee_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#FF558BD1"
+                android:text="طبي"
+
+                />
+
+            <TextView
+                android:layout_width="5dp"
+                android:layout_height="50dp" />
+
+            <Button
+                android:id="@+id/mkateb_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#FF558BD1"
+                android:text="مكاتب" />
+
+            <TextView
+                android:layout_width="5dp"
+                android:layout_height="50dp" />
+
+            <Button
+                android:id="@+id/vell_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#FF558BD1"
+                android:text="فلل" />
+
+            <TextView
+                android:layout_width="5dp"
+                android:layout_height="50dp" />
+
+
+            <Button
+                android:id="@+id/omarat_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#FF558BD1"
+                android:text="عمارات" />
+
+            <TextView
+                android:layout_width="5dp"
+                android:layout_height="50dp" />
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+
+        />
+    <FrameLayout
+        android:id="@+id/frame"
+        android:layout_below="@id/linear"
+
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+    </FrameLayout>
+
+
+</LinearLayout>
