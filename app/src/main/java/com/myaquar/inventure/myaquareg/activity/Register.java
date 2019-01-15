@@ -1,9 +1,11 @@
-package com.myaquar.inventure.myaquareg;
+package com.myaquar.inventure.myaquareg.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
+
+import com.myaquar.inventure.myaquareg.R;
 
 public class Register extends AppCompatActivity {
 
