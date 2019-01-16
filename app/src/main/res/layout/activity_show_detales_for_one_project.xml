@@ -10,11 +10,10 @@
     >
 
     <HorizontalScrollView
-        android:paddingTop="10dp"
         android:id="@+id/horizontal_scroll"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#FF1C1C1D">
+        android:paddingTop="10dp">
 
         <LinearLayout
             android:id="@+id/linear"
@@ -26,8 +25,8 @@
                 android:id="@+id/sacnee_id"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="#FF558BD1"
-                android:text="سكني "
+                android:background="#c10616"
+                android:text="Residential"
 
                 />
 
@@ -39,8 +38,8 @@
                 android:id="@+id/tbee_id"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="#FF558BD1"
-                android:text="طبي"
+                android:background="#c10616"
+                android:text="Commercial"
 
                 />
 
@@ -52,8 +51,8 @@
                 android:id="@+id/mkateb_id"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="#FF558BD1"
-                android:text="مكاتب" />
+                android:background="#c10616"
+                android:text="Medical" />
 
             <TextView
                 android:layout_width="5dp"
@@ -63,8 +62,8 @@
                 android:id="@+id/vell_id"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="#FF558BD1"
-                android:text="فلل" />
+                android:background="#c10616"
+                android:text="Holiday Home" />
 
             <TextView
                 android:layout_width="5dp"
@@ -75,8 +74,8 @@
                 android:id="@+id/omarat_id"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="#FF558BD1"
-                android:text="عمارات" />
+                android:background="#c10616"
+                android:text="Launch soon" />
 
             <TextView
                 android:layout_width="5dp"

@@ -14,7 +14,7 @@
 
         >
 
-        <activity android:name=".activity.show_detales_for_one_project">
+        <activity android:name=".activity.Register">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -22,7 +22,7 @@
             </intent-filter>
 
         </activity>
-        <activity android:name=".activity.Register"></activity>
+        <activity android:name=".activity.show_detales_for_one_project"></activity>
         <activity android:name=".activity.MainActivity"></activity>
         <activity android:name=".activity.Panorama"></activity>
         <activity android:name=".activity.AboutUs_Activity"></activity>

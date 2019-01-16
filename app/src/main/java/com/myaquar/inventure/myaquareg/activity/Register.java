@@ -1,5 +1,6 @@
 package com.myaquar.inventure.myaquareg.activity;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -17,5 +18,7 @@ public class Register extends AppCompatActivity {
 
     public void Confirm(View view) {
         Toast.makeText(this, "Done..!", Toast.LENGTH_SHORT).show();
+        Intent i=new Intent(this,Developer.class);
+        startActivity(i);
     }
 }

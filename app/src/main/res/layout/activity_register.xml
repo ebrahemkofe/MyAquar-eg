@@ -10,20 +10,18 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:background="#fff"
-        tools:context=".Activities.Rejester_activity">
+        android:background="#fff">
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="90dp"
             android:layout_gravity="left"
-            android:text="Please Enter your information :-"
-            android:textStyle="bold"
-            android:textSize="21sp"
-            android:textColor="#c10616"
-            android:gravity="bottom"
-            android:paddingLeft="13dp"
+            android:text="Please Enter your information"
+            android:textSize="18sp"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
             android:paddingBottom="15dp"
+            android:layout_marginBottom="5dp"
 
 
             />
@@ -41,7 +39,7 @@
             android:lines="1"
             android:background="@drawable/register_edit_text"
             android:paddingLeft="13dp"
-            android:textColorHint="#c10616"
+            android:textColorHint="#000"
             />
 
         <EditText
@@ -55,7 +53,7 @@
             android:background="@drawable/register_edit_text"
             android:lines="1"
             android:paddingLeft="13dp"
-            android:textColorHint="#c10616"
+            android:textColorHint="#000"
             />
 
 
@@ -70,7 +68,7 @@
             android:inputType="textPassword"
             android:background="@drawable/register_edit_text"
             android:paddingLeft="13dp"
-            android:textColorHint="#c10616"
+            android:textColorHint="#000"
             />
 
         <EditText
@@ -84,7 +82,7 @@
             android:background="@drawable/register_edit_text"
             android:lines="1"
             android:paddingLeft="13dp"
-            android:textColorHint="#c10616"
+            android:textColorHint="#000"
             />
 
         <EditText
@@ -98,7 +96,7 @@
             android:inputType="text"
             android:lines="1"
             android:paddingLeft="13dp"
-            android:textColorHint="#c10616"
+            android:textColorHint="#000"
             />
 
         <Button

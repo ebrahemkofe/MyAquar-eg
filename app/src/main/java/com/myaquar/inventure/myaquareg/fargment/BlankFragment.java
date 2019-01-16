@@ -19,8 +19,8 @@ import android.widget.TextView;
 import com.daimajia.slider.library.SliderLayout;
 import com.daimajia.slider.library.SliderTypes.BaseSliderView;
 import com.daimajia.slider.library.SliderTypes.TextSliderView;
-import com.myaquar.inventure.myaquareg.activity.Panorama;
 import com.myaquar.inventure.myaquareg.R;
+import com.myaquar.inventure.myaquareg.activity.Panorama;
 
 /**
  * A simple {@link Fragment} subclass.
