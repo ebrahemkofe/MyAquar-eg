@@ -88,12 +88,12 @@
             />
 
         <EditText
-            android:id="@+id/jopTittel"
+            android:id="@+id/jobTitle"
             android:layout_width="300dp"
             android:layout_height="50dp"
             android:layout_gravity="center"
             android:layout_marginBottom="40dp"
-            android:hint=" Jop tittle (optional) "
+            android:hint=" Job title (optional) "
             android:background="@drawable/register_edit_text"
             android:inputType="text"
             android:lines="1"

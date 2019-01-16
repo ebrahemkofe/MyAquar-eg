@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.Toast;
 
 public class Register extends AppCompatActivity {
-
+//l'k'lkmklm
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
