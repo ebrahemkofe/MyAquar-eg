@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">MyAquar.eg</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+
+
+    <string name="Description">
+ compound El-Sherouk -Under supervision of Ministry Of housing. Swimming pool-Kids play area-Sports fields-Security and surveillance cameras-Parks-Shopping mall-Ultra modern exteriors- Marble entrances-Elevators- Unit is 80 Sqm (2 Bedrooms- Reception- Kitchen- Bathroom). Price is 560,000 EGP exclusively to Aquar.me for a limited time only. Long-term payment plans up to 10 years.</string>
+
+
+    <string name="arbic_des">كمبوند لايف بارك الشروق تحت إشراف وزارة الإسكان.
+خدمات:\nحمامات سباحة – منطقة العاب اطفال – منطقة ملاعب – أمن وحراسة وكاميرات مراقبة – حدائق – مول تجاري \n
+واجهات العمارات (الترا مودرن) – مداخل رخام - أسانسير
+الشقة 80م2 (غرفتين + ريسبشن + مطبخ + حمام)
+السعر لفترة محدودة حصريا ل عقار
+560000ج بخصم يصل الى 20%
+العرض ساري الى فترة محدودة تسهيلات في السداد تصل الى 10 سنوات بدون فوائد .
+</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="About_Us">"At Aquar.me, we believe that when it comes to find a home what's outside the front door is just as important as what's behind it. That's why we go beyond the typical listings, by sourcing insights straight from locals and offering over 500 real estate projects, to give people a deeper understanding of what living in a home and neighborhood is really like.We're committed to helping them discover a place where they will love to live and where they will feel more connected to the community and to each other.That`s why we strive every day to help build a more neighborly world."
+    </string>
 </resources>
